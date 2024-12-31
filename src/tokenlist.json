@@ -1,0 +1,20 @@
+{
+  "name": "OrbitronSwap List",
+  "timestamp": "2024-10-11T00:00:00.000Z",
+  "logoURI": "",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Wrapped Orbitron",
+      "symbol": "WOBTT",
+      "chainId": 4723,
+      "decimals": 18,
+      "address": "0x6B471b56E22019eE676c3A73B3C04d67946A5bfA",
+      "logoURI": ""
+    }
+  ]
+}
